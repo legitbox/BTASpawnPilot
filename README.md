@@ -2,9 +2,12 @@
 A simple tool that backs up the selected regions in the server world
 
 # Features
-Automatic old file deletion
-Automatic backup
-Region file calculator (can be started using the -calc argument)
+`Automatic old file deletion`
+
+`Automatic backup`
+
+`Region file calculator (can be started using the -calc argument)`
+
 
 # Requirements
 python 3.11
