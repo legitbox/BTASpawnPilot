@@ -1,2 +1,2 @@
-# SpawnChunkPilot
-A simple tool that backs up the closest chunks in the server world
+# BTA! Spawn Pilot
+A simple tool that backs up the selected regions in the server world
