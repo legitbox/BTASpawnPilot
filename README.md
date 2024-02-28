@@ -1,4 +1,5 @@
 # BTA! Spawn Pilot
+![Spawn Pilot](https://github.com/legitbox/BTASpawnPilot/blob/main/spawn%20pilot.png?raw=true)
 A simple tool that backs up the selected regions in the server world
 
 # Features
