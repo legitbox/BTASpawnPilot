@@ -20,5 +20,7 @@ open a window or a linux screen and start the program with the command 'python3 
 edit the config file to your liking (it's called spawn_pilot_config.json)
 start up the program by using the command 'python3 (or python) spawn_pilot.py -start'
 
+![Tutorial GIF](https://github.com/legitbox/BTASpawnPilot/blob/main/tutorial.gif?raw=true)
+
 # Info
 You can insert as many regions as you like, as long as they already exist
